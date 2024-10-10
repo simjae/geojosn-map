@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "경북_(신)포항현대자동차운전전문학원",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+
+]
+}
